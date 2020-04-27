@@ -1,0 +1,8 @@
+server:
+  session-timeout: 3600
+  port: 80
+
+spring:
+  thymeleaf:
+    mode: LEGACYHTML5
+    cache: false
